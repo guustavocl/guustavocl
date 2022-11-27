@@ -21,7 +21,7 @@
     <img src="https://zoz.gg/icons/extra/startag.png" width="40" alt="Zoz" />
   </a>
   <span style="float: right; opacity: 0.1" align="right">
-    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="43" height="0" alt="Code" />    
+    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="150" height="0" alt="Code" />    
   </span>
   
   <span style="float: right;" align="right">
@@ -57,8 +57,8 @@
   <img src="https://img.shields.io/badge/-Node.js-4900bf?style=flat&logo=Node.js&logoColor=white" height="30" alt="NodeJS" />
   <img src="https://img.shields.io/badge/-Yarn-4900bf?style=flat&logo=Yarn&logoColor=white" height="30" alt="Yarn" />
   <img src="https://img.shields.io/badge/-ExpressJs-4900bf?style=flat&logo=Express&logoColor=white" height="30" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/-Spring-4900bf?style=flat&logo=Spring&logoColor=white" height="30" alt="Spring" />
-  <img src="https://img.shields.io/badge/-Ruby on Rails-4900bf?style=flat&logo=RubyonRails&logoColor=white" height="30" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/-SpringBoot-4900bf?style=flat&logo=Spring&logoColor=white" height="30" alt="Spring" />
+  <img src="https://img.shields.io/badge/-Rails-4900bf?style=flat&logo=RubyonRails&logoColor=white" height="30" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/-Expo-4900bf?style=flat&logo=Expo&logoColor=white" height="30" alt="Expo" />
   <img src="https://img.shields.io/badge/-Android Studio-4900bf?style=flat&logo=AndroidStudio&logoColor=white" height="30" alt="Android Studio" />  
 </div>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-c70050?style=flat&logo=MongoDB&logoColor=white" height="30" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-PostgreSQL-c70050?style=flat&logo=PostgreSQL&logoColor=white" height="30" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Redis-c70050?style=flat&logo=Redis&logoColor=white" height="30" alt="Redis" />  
-  <img src="https://img.shields.io/badge/-Amazon AWS-c70050?style=flat&logo=AmazonAWS&logoColor=white" height="30" alt="Amazon AWS" />
+  <img src="https://img.shields.io/badge/-AWS-c70050?style=flat&logo=AmazonAWS&logoColor=white" height="30" alt="Amazon AWS" />
   <img src="https://img.shields.io/badge/-Google Cloud-c70050?style=flat&logo=GoogleCloud&logoColor=white" height="30" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/-Jenkins-c70050?style=flat&logo=Jenkins&logoColor=white" height="30" alt="Jenkins" />
   <img src="https://img.shields.io/badge/-NGINX-c70050?style=flat&logo=NGINX&logoColor=white" height="30" alt="NGINX" />
