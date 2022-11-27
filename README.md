@@ -42,7 +42,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=5000&color=FD428D&vCenter=true&width=600&height=30&lines=%E2%80%8E+%E2%80%8E%E2%86%91+you+can+contact+me+here;%E2%80%8E+%E2%80%8Eor+send+me+a+msg+on+discord%3A+Gustavo~%231500;oh+%E2%80%8Eand+this+link+here%E2%86%91+is+my+stackshare;+also%2C+here%E2%80%8E++%E2%80%8E+%E2%80%8E+%E2%86%91+check+my+bio+link+website%F0%9F%92%99)](https://git.io/typing-svg)
 
-## Minhas stacks
+## My stacks
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
   <img src="https://img.shields.io/badge/-React-0041a8?style=flat&logo=React&logoColor=white" height="30" alt="React" />
   <img src="https://img.shields.io/badge/-Typescript-0041a8?style=flat&logo=TypeScript&logoColor=white" height="30" alt="Typescript" />
