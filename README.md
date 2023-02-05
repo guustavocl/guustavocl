@@ -17,30 +17,10 @@
   <a style="margin-left: 10px;" href="https://open.spotify.com/user/guustavocl" target="_blank">
     <img src="https://zoz.gg/icons/social/spotify2.png" width="40" alt="Spotify" />
   </a>
-  <a style="margin-left: 10px;" href="https://stackshare.io/guustavocl/stack" target="_blank">
-    <img src="https://zoz.gg/icons/extra/startag.png" width="40" alt="Zoz" />
-  </a>
-  <span style="float: right; opacity: 0.1" align="right">
-    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="170" height="0" alt="Code" />    
-  </span>
   
-  <span style="float: right;" align="right">
-    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="40" alt="codeeditor" />    
-  </span>
-  <span style="float: right;" align="right">
-    <img src="https://zoz.gg/icons/extra/magikarp.png" width="40" alt="magikarp" />    
-  </span>
-  <span style="float: right;" align="right">
-    <img src="https://zoz.gg/icons/extra/pizzaboy.png" width="40" alt="pizzaboy" />    
-  </span>
-  <span style="float: right;" align="right">
-    <img src="https://zoz.gg/icons/social/bitcoin.png" width="40" alt="bitcoin" />    
-  </span>
   <img src="https://komarev.com/ghpvc/?username=guustavocl&color=blue" height="35" alt="Profile count" />
   
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=5000&color=FD428D&vCenter=true&width=600&height=30&lines=%E2%80%8E+%E2%80%8E%E2%86%91+you+can+contact+me+here;%E2%80%8E+%E2%80%8Eor+send+me+a+msg+on+discord%3A+Gustavo~%231500;oh+%E2%80%8Eand+this+link+here%E2%86%91+is+my+stackshare;+also%2C+here%E2%80%8E++%E2%80%8E+%E2%80%8E+%E2%86%91+check+my+bio+link+website%F0%9F%92%99)](https://git.io/typing-svg)
 
 ## My stacks
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
