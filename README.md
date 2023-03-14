@@ -58,12 +58,12 @@
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row">
     <img
-	height="161"
+	height="164"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guustavocl&theme=2077"
      />
      <img
-        height="162"
-        src="https://github-readme-streak-stats.herokuapp.com?user=guustavocl&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D"
+        height="164"
+        src="https://streak-stats.demolab.com/?user=guustavocl&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       />
    </div>
    <div style="display: flex; flex-direction: column">
