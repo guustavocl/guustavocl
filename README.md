@@ -8,8 +8,8 @@
   <a style="margin-left: 10px;" href="https://twitter.com/guustavocl" target="_blank">
     <img src="https://zoz.gg/icons/social/twitter.png" width="40" alt="Twitter" />
   </a>
-  <a style="margin-left: 10px;" href="https://discord.com/Gustavo~#1500" target="_blank">
-    <img src="https://zoz.gg/icons/social/discord.png" width="40" alt="Discord" />
+  <a style="margin-left: 10px;" href="https://gus.sh" target="_blank">
+    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="40" alt="gus.sh" />
   </a>
   <a style="margin-left: 10px;" href="https://zoz.gg/gustavo" target="_blank">
     <img src="https://zoz.gg/icons/social/zozfav.png" width="40" alt="Zoz" />
