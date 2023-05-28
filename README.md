@@ -42,17 +42,19 @@
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row">
     <img
-	height="164"
+	style="min-width: 134px; max-height: 134px;"
+	 width="320"
         src="https://lanyard-profile-readme.vercel.app/api/166331543378198528?theme=dark&bg=000000&animated=false&borderRadius=10px"
      />
      <img
-        height="164"
+	style="min-width: 164px;"
+	height="164"
         src="https://streak-stats.demolab.com/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       />
    </div>
    <div style="display: flex; flex-direction: column">
       <img
-	height="212"
+	width="743"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=midnight_purple"
       />
    </div
