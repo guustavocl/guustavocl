@@ -1,25 +1,9 @@
 
 # Hello, I'm Gustavo 👨🏻‍💻 
-
-<div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <a style="margin-left: 10px;" href="https://instagram.com/guustavocl" target="_blank">
-    <img src="https://zoz.gg/icons/social/instagram.png" width="40" alt="Instagram" />
-  </a>
-  <a style="margin-left: 10px;" href="https://twitter.com/guustavocl" target="_blank">
-    <img src="https://zoz.gg/icons/social/twitter.png" width="40" alt="Twitter" />
-  </a>
-  <a style="margin-left: 10px;" href="https://gus.sh" target="_blank">
-    <img src="https://zoz.gg/icons/extra/codeeditor.png" width="40" alt="gus.sh" />
-  </a>
-  <a style="margin-left: 10px;" href="https://zoz.gg/gustavo" target="_blank">
-    <img src="https://zoz.gg/icons/social/zozfav.png" width="40" alt="Zoz" />
-  </a>
-  <a style="margin-left: 10px;" href="https://open.spotify.com/user/guustavocl" target="_blank">
-    <img src="https://zoz.gg/icons/social/spotify2.png" width="40" alt="Spotify" />
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=guustavocl&color=blue" height="35" alt="Profile count" />
-  
+<div>
+	I'm a self-taught software engineer from Brazil.</br>
+	At the moment working as a full stack and building some personal projects.</br>
+	Chek my personal website for more <a href="https://gus.sh/">gus.sh</a> 👾
 </div>
 
 ## Some of my stacks
@@ -53,23 +37,23 @@
   <img src="https://img.shields.io/badge/-NGINX-c70050?style=flat&logo=NGINX&logoColor=white" height="30" alt="NGINX" />
 </div>
 
-## Github data
+## Discord + Github data
 
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row">
     <img
 	height="164"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guustavocl&theme=2077"
+        src="https://lanyard-profile-readme.vercel.app/api/166331543378198528?theme=dark&bg=000000&animated=false&borderRadius=10px"
      />
      <img
         height="164"
-        src="https://streak-stats.demolab.com/?user=guustavocl&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+        src="https://streak-stats.demolab.com/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       />
    </div>
    <div style="display: flex; flex-direction: column">
       <img
-        style="max-width: 98%"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=2077"
+	height="212"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=midnight_purple"
       />
    </div
 </div>
