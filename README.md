@@ -1,7 +1,7 @@
 
 # Hi, I'm Gustavo 👨🏻‍💻 
 <div>
-	I'm a self-taught software engineer from Brazil.</br>
+	I'm a software engineer from Brazil.</br>
 	At the moment working as a full stack and building some personal projects.</br>
 	Check my personal website for more <a href="https://gus.sh/">gus.sh</a> 👾
 </div>
