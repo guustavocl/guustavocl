@@ -30,13 +30,13 @@
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: flex-center;">
-  <img src="https://img.shields.io/badge/-Mongo DB-c70050?style=flat&logo=MongoDB&logoColor=white" height="30" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-c70050?style=flat&logo=PostgreSQL&logoColor=white" height="30" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDb-c70050?style=flat&logo=MongoDB&logoColor=white" height="30" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-PostgreSql-c70050?style=flat&logo=PostgreSQL&logoColor=white" height="30" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Redis-c70050?style=flat&logo=Redis&logoColor=white" height="30" alt="Redis" />
   <img src="https://img.shields.io/badge/-Docker-c70050?style=flat&logo=Docker&logoColor=white" height="30" alt="Docker" />  
   <img src="https://img.shields.io/badge/-AWS-c70050?style=flat&logo=amazonwebservices&logoColor=white" height="30" alt="Amazon AWS" />
   <img src="https://img.shields.io/badge/-GCP-c70050?style=flat&logo=GoogleCloud&logoColor=white" height="30" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/-Coolify-c70050?style=flat&logo=c&logoColor=white" height="30" alt="Coolify" />
+  <img src="https://img.shields.io/badge/-Dokploy!-c70050?style=flat&logo=Docker&logoColor=white" height="30" alt="Dokploy" />
 </div>
 
 ## Discord + Github data 
